@@ -26,4 +26,5 @@ fields:
   hidden: false
   default: ''
 pages:
+- content/post/dragon-ball.md
 - content/post/city-hunter.md
