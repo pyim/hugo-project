@@ -25,3 +25,5 @@ fields:
   type: text
   hidden: false
   default: ''
+pages:
+- content/post/city-hunter.md
